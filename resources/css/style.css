@@ -48,7 +48,7 @@ nav span a {
 }
 
 
-div {
+.div {
   display: block;
 }
 
@@ -72,8 +72,9 @@ div {
   text-align: center;
 }
 
-.fall-cancelled .image-content {
+.fall-cancelled.image-content {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png");
+}
 
 .pop-culture.image-content {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png");
