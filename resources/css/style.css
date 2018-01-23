@@ -53,7 +53,7 @@ div {
 }
 
 .lead-story .image-content {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png");
+  background-image: url("../images/main.png");
   font-size: 40px;
   text-align: left;
 }
